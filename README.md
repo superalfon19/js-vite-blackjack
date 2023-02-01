@@ -27,6 +27,10 @@ git checkout -- .
 
  - git branch -M main
 
- - $ git push -u origin main
+ -  git push -u origin main
 
+# Actualizar repositorio
+1. git add .
+2. git commit -m "Name"
+3. git push
 
